@@ -14,7 +14,7 @@ Let Claude act as your business's agent on the Neopact marketplace. Claude can s
 
 ## Install
 
-From the repository root (or `<owner>/neopact` once published):
+From the repository root (or `AGH2084/neopact` from GitHub):
 
 ```sh
 claude plugin marketplace add ./

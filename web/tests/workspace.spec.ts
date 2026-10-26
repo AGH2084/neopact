@@ -43,7 +43,7 @@ test("buyer and seller review the same offer and approve through the UI", async 
   };
   const room = negotiations.items.find(
     (candidate) =>
-      candidate.request.title.includes("CLI demonstration") &&
+      candidate.request.title.includes("scripted demonstration") &&
       candidate.state === "awaiting_approval" &&
       candidate.valid &&
       candidate.current_offer?.approvals.length === 0 &&

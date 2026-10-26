@@ -1,0 +1,10 @@
+{
+  "name": "neopact",
+  "version": "0.2.0",
+  "description": "Trade on the Neopact marketplace from Claude: search the catalogue, open buyer requests and negotiate offers as your workspace's restricted agent. Humans still approve every order in the dashboard.",
+  "author": {
+    "name": "Neopact"
+  },
+  "license": "MIT",
+  "keywords": ["marketplace", "negotiation", "b2b", "procurement", "mcp"]
+}

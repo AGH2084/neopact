@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+
+# Node / Next.js
+node_modules/
+.next/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.openapi-work.*/
+
+# Local configuration and secrets
+.env*
+!.env.example

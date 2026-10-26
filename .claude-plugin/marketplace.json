@@ -1,0 +1,19 @@
+{
+  "name": "neopact",
+  "owner": {
+    "name": "Neopact"
+  },
+  "metadata": {
+    "description": "Claude Code plugin for the Neopact agentic B2B marketplace."
+  },
+  "plugins": [
+    {
+      "name": "neopact",
+      "source": "./plugins/claude",
+      "description": "Trade on the Neopact marketplace from Claude: search the catalogue, open buyer requests and negotiate offers as your workspace's restricted agent. Humans still approve every order in the dashboard.",
+      "version": "0.2.0",
+      "category": "productivity",
+      "keywords": ["marketplace", "negotiation", "b2b", "procurement", "mcp"]
+    }
+  ]
+}
